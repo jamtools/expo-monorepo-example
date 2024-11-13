@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "expo-monorepo",
-    "slug": "expo-monorepo",
+    "slug": "music-sniper",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,6 +30,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9ad71fa6-6329-46b0-8e1d-2e510f8385a3"
+      }
+    },
+    "owner": "mjkochell"
   }
 }
